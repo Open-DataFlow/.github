@@ -1,5 +1,5 @@
-#  PKU-DataLab Open-DataFlow
-Welcome to the GitHub repository of the Peking University OpenDataFlow Project.
+#  PKU-DataLab
+Welcome to the GitHub repository of the Peking University DataLab.
 
 We are dedicated to advancing research and open-source tools in Data-Centric Machine Learning (DCML). Our research interest lies in Data Evaluation, Data Processing, Data Generation and Data Retrieve.
 
